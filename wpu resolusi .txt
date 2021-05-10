@@ -5,7 +5,7 @@ membuat coding untuk menadapatkan skil
   ^ nambah ikan
 minum
   ^jus
-  
+  ^ airputih
 membuat aplikasi
 stuktur makan
 mau colep sama orang
