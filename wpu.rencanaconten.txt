@@ -1,5 +1,7 @@
 rekamna 
 
 java skirpt 
+=es6
+sarapan
 makan 
 tidor
